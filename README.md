@@ -15,12 +15,6 @@ This is a simple web server implemented using Express in Node.js. It responds to
 ## Additional Information
 
 - The server listens on port 3000 by default but can be configured using the `PORT` environment variable.
-- If you access an undefined route, you will receive a "404 - Not Found" response.
-
-## Screenshots
-
-![Root Path](screenshots/root.png)
-![About Page](screenshots/about.png)
-=======
+- If you access an undefined route, you will receive a "404 - Not Found" response.=======
 # Basic-Express-NodeJS
 >>>>>>> origin/main

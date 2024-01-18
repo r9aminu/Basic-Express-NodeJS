@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Express Web Server
 
 This is a simple web server implemented using Express in Node.js. It responds to different routes with text responses.
@@ -20,3 +21,6 @@ This is a simple web server implemented using Express in Node.js. It responds to
 
 ![Root Path](screenshots/root.png)
 ![About Page](screenshots/about.png)
+=======
+# Basic-Express-NodeJS
+>>>>>>> origin/main
